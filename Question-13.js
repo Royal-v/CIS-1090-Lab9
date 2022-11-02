@@ -26,6 +26,7 @@ let addFive = addScore.bind(null, 5);
 //TRY CALLING THESE FUNCTIONS HERE...
 //I'll do one for you
 addTwo();
-
+addFive();
+addOne();
 //IF we were in a web browser, you could do something like this:
 // pig.addEventListener('click', addScore.bind(null, 3) );
